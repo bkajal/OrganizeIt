@@ -1,4 +1,4 @@
-# Todo_app:Manage_your_tasks_with_efficiency
+# OrganizeIt:Manage_your_tasks_with_efficiency
  Full-stack to-do list application built with the PERN stack (PostgreSQL, Express, React, Node.js)          
  -Create new to-do items with ease.  
  -Edit existing tasks using a convenient popup window.     
